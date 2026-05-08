@@ -1,6 +1,15 @@
 # JAVA_026
-Java practice repository covering OOPs, collections, Java 8, arrays, encapsulation, and core Java concepts
-JAVA_02
+
+## About Project
+
+This repository contains my Java learning and practice programs covering Core Java, OOPs, Java 8, Collections Framework, and problem-solving concepts.
+
+---
+
+# Project Structure
+
+```text
+JAVA_026
 │
 ├── src
 │   ├── Arrays
@@ -9,17 +18,16 @@ JAVA_02
 │   ├── UserInput
 │   ├── DATA_TYPES
 │   ├── JAVA_CONSTRUCTOR
-│   └── kgCodingJava
+│   ├── kgCodingJava
 │
 ├── .gitignore
 └── README.md
+```
 
+---
 
-# JAVA_026
+# Topics Covered
 
-This repository contains my Java learning and practice programs.
-
-Topics Covered:
 - OOPs
 - Arrays
 - Constructors
@@ -28,6 +36,31 @@ Topics Covered:
 - User Input
 - Data Types
 - Control Statements
-- Static Methods
-- Pattern Programs
-- Java Practice Assignments
+- Loops
+- Methods
+- Java 8 Features
+- Collections Framework
+
+---
+
+# Technologies Used
+
+- Java 17
+- VS Code
+- Git
+- GitHub
+
+---
+
+# How to Run
+
+```bash
+javac FileName.java
+java FileName
+```
+
+---
+
+# Author
+
+Rahul Ujjawal
