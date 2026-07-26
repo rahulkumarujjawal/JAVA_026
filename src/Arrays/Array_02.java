@@ -10,5 +10,12 @@ public class Array_02 {
         cars[3] = "Mazda";
         cars[4] = "tata";
         System.out.println(cars[3]);
+        System.out.println("Your Cars :- " +cars[1]);
+        System.out.println("Your Cars :- " +cars[2]);
+
+        System.out.println("Your Cars :- " +cars[3]);
+        System.out.println("Your Cars :- " +cars[4]);
+
+
     }
 }
