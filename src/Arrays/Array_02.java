@@ -14,6 +14,9 @@ public class Array_02 {
         cars[6] = "tata naino";
 
         cars[7] = "tata safari" ;
+        cars[8] = "Honda" ;
+
+
 
 
 
