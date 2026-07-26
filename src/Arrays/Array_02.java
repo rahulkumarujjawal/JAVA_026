@@ -8,6 +8,7 @@ public class Array_02 {
         cars[1] = "BMW";
         cars[2] = "Ford";
         cars[3] = "Mazda";
+        cars[4] = "tata";
         System.out.println(cars[3]);
     }
 }
